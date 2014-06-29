@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">= 5.3.0",
+        "twig/twig": "1.*",
+        "sendgrid/sendgrid": "1.0.9"
+    }
+}
